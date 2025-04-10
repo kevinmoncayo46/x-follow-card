@@ -1,12 +1,31 @@
-# React + Vite
+# x Follow Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto consiste en un componente de React que replica una parte de la interfaz de la plataforma X (antes Twitter). El componente muestra tarjetas con información de usuario y un botón para seguir o dejar de seguir.
 
-Currently, two official plugins are available:
+## Visualiza el Proyecto en Vivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Puedes ver el proyecto funcionando en GitHub Pages:
 
-## Expanding the ESLint configuration
+[https://kevinmoncayo46.github.io/x-follow-card/](https://kevinmoncayo46.github.io/x-follow-card/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Características
+
+- **Tarjetas de Seguimiento:** Muestra foto, nombre, @usuario y un botón que permite seguir o dejar de seguir.
+- **Interfaz Responsive:** Optimizado para diferentes tamaños de pantalla.
+- **Desarrollado en React:** Componente modular y reutilizable.
+
+## Tecnologías Utilizadas
+
+- **React:** Para el desarrollo de la interfaz.
+- **Vite:** Para la configuración y empaquetado del entorno de desarrollo.
+- **CSS/SCSS:** Para el diseño y estilos del componente.
+
+## Instalación y Ejecución
+
+Si deseas ejecutar el proyecto localmente, sigue estos pasos:
+
+1. **Clonar el repositorio:**
+
+   ```bash
+   git clone https://github.com/tu-usuario/x-follow-card.git
+
